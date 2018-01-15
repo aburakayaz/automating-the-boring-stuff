@@ -1,0 +1,1 @@
+@pyw.exe W:\PyBatches\mcb\mcb.pyw %*

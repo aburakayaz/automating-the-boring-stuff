@@ -1,0 +1,1 @@
+@pyw.exe W:\PyBatches\.\delcom.pyw %*
