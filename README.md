@@ -18,7 +18,7 @@ For Windows, use Run (`windows + R`)
 This script automatically creates batch files in the main folder that I keep the batches.
 
 ### Usage
-`delcom`
+`genbatch`
 
 ## Delcom
 This script is for deleting the batch file and the script (it sends them to trash).
